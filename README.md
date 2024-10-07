@@ -13,7 +13,7 @@ I’m interested in mostly graphics programming, though I also sometimes delve i
 
 - 😄 Pronouns: he
 
-- ⚡ Fun fact: I play Nomifactory, and a lot of incremental idle games :)
+- ⚡ Fun fact: My favourite type of game is factory games, enjoying games like Satisfactory and modded Minecraft (Nomifactory) :)
 
 <!---
 gelastropod/gelastropod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
