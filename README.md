@@ -6,6 +6,7 @@ I’m interested in mostly graphics programming, though I also sometimes delve i
 - 🌱 Current projects:  
 [satisfactory-minecraft](https://github.com/gelastropod/satisfactory-minecraft.git): A minecraft mod aiming to develop the game Satisfactory  
 [ADClone](https://github.com/gelastropod/ADClone.git): A project aiming to code Antimatter Dimensions in JavaFX, for me to test my JavaFX skills
+[learn-gatsby](https://gelastropod.github.io/learn-gatsby/): A test site I am using to learn Gatsby js
 
 - 💞️ I’m looking to collaborate on any modding (minecraft) projects anyone is interested in!
 
