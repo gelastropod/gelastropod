@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gelastropod
 
 - 👀 Interests:
-I’m interested in mostly graphics programming, though I also sometimes delve into game development and simulations as a side project. My most-used graphics engine is OpenGL (glfw, c++). However, I do sometimes use JavaFX.
+I’m interested in mostly competitive programming and graphics programming, though I also sometimes delve into game development and simulations as a side project. My most-used graphics engine is OpenGL (glfw, c++). However, I do sometimes use JavaFX.
 
 - 🌱 Current projects:  
 [satisfactory-minecraft](https://github.com/gelastropod/satisfactory-minecraft.git): A minecraft mod aiming to develop the game Satisfactory  
@@ -12,7 +12,7 @@ I’m interested in mostly graphics programming, though I also sometimes delve i
 
 - 📫 How to reach me: I am probably most active on discord, username: gelastropod
 
-- 😄 Pronouns: he
+- 😄 Pronouns: she/her
 
 - ⚡ Fun fact: My favourite type of game is factory games, enjoying games like Satisfactory and modded Minecraft (Nomifactory) :)
 
