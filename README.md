@@ -1,22 +1,23 @@
-- 👋 Hi, I’m @gelastropod
+# gelastropod
 
-- 👀 Interests:
-I’m interested in mostly competitive programming and graphics programming, though I also sometimes delve into game development and simulations as a side project. My most-used graphics engine is OpenGL (glfw, c++). However, I do sometimes use JavaFX.
+Hi, I'm gelastropod 🐌! I'm a student who does some stuff sometimes. You might see some cool things here.
 
-- 🌱 Current projects:  
-[satisfactory-minecraft](https://github.com/gelastropod/satisfactory-minecraft.git): A minecraft mod aiming to develop the game Satisfactory  
-[ADClone](https://github.com/gelastropod/ADClone.git): A project aiming to code Antimatter Dimensions in JavaFX, for me to test my JavaFX skills  
-[learn-gatsby](https://gelastropod.github.io/learn-gatsby/): A test site I am using to learn Gatsby js
+## Interests
+- Informatics Olympiad (also Competitive Programming): My main hobby, might be taking up too much of my time. I have profiles on [Codeforces](https://codeforces.com/profile/gelastropod) and [AtCoder](https://atcoder.jp/users/gelastropod), though I am pretty much entirely inactive on AtCoder, and only somewhat active on Codeforces. Might upload solution code to some problems if I remember to.
+- Graphics Programming: I have learnt the fundamentals of OpenGL, currently trying to learn Vulkan. I am also really into ray-tracing and related fields.
+- Dynamical Systems: The likes of [braintruffle](https://www.youtube.com/@braintruffle), I wish to explore and delve deep into numerical methods and dynamical systems and all that good stuff.
+- Games: When I am not doing informatics olympiad, I mostly play games :p (maybe abit too much).
 
-- 💞️ I’m looking to collaborate on any modding (minecraft) projects anyone is interested in!
+## Notable Projects
+I don't really have anything here, since Informatics Olympiad eats up a lot of my free time :)
 
-- 📫 How to reach me: I am probably most active on discord, username: gelastropod
+- [`rayTracer`](https://github.com/gelastropod/rayTracer): Some ray tracing + Vulkan project which I wish to work on (as much as possible)!
+- (nothing else :c)
 
-- 😄 Pronouns: she/her
+Other honourable mentions (things that are not really that good):
 
-- ⚡ Fun fact: My favourite type of game is factory games, enjoying games like Satisfactory and modded Minecraft (Nomifactory) :)
+- [`Extras`](https://github.com/gelastropod/Extras): Random projects I worked on in 2023.
+- [`deternary`](https://github.com/gelastropod/deternary): Console game based on the level Deternary in Geometry Dash. Features a ternary computing machine.
 
-<!---
-gelastropod/gelastropod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Contact Me
+Please contact me on Discord, `gelastropod`. I do not usually respond to random DMs so please state your purpose or something like that, thank you!
