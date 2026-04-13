@@ -16,8 +16,13 @@ I don't really have anything here, since Informatics Olympiad eats up a lot of m
 
 Other honourable mentions (things that are not really that good):
 
-- [`Extras`](https://github.com/gelastropod/Extras): Random projects I worked on in 2023.
 - [`deternary`](https://github.com/gelastropod/deternary): Console game based on the level Deternary in Geometry Dash. Features a ternary computing machine.
+- [`SHA256-demo`](https://github.com/gelastropod/SHA256-demo): Implementation of SHA256 hash algorithm in C++.
+- [`Extras`](https://github.com/gelastropod/Extras): Random projects I worked on in 2023.
 
 ## Contact Me
 Please contact me on Discord, `gelastropod`. I do not usually respond to random DMs so please state your purpose or something like that, thank you!
+
+
+
+🏳️‍⚧️
