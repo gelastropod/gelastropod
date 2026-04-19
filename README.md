@@ -12,7 +12,7 @@ Hi, I'm gelastropod 🐌! I'm a student who does some stuff sometimes. You might
 I don't really have anything here, since Informatics Olympiad eats up a lot of my free time :)
 
 - [`rayTracer`](https://github.com/gelastropod/rayTracer): Some ray tracing + Vulkan project which I wish to work on (as much as possible)!
-- (nothing else :c)
+- [`agc`](https://github.com/gelastropod/agc): Code for all the AGC (atcoder grand contests) I have done.
 
 Other honourable mentions (things that are not really that good):
 
